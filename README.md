@@ -1,5 +1,4 @@
 # SQL-project-Business-Problem-
-Here's a clean, well-structured README for your Retail Analytics Case Study project: Here's the actual markdown you can paste directly into your `README.md` file on GitHub:
 
 SQL Data Analytics Retail
 Retail Analytics Case Study
