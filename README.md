@@ -3,13 +3,6 @@ Here's a clean, well-structured README for your Retail Analytics Case Study proj
 
 SQL Data Analytics Retail
 Retail Analytics Case Study
-
-```markdown
-# Retail Analytics Case Study
-
-![SQL](https://img.shields.io/badge/SQL-Data%20Analytics-blue)
-![Domain](https://img.shields.io/badge/Domain-Retail-orange)
-
 A data analytics project leveraging SQL to analyse sales performance, segment customers, and uncover behavioural patterns for a retail company experiencing stagnant growth and declining engagement.
 
 ---
